@@ -141,5 +141,5 @@ Expandable: can easily add more static facts or switch models
 ### Credits
 
 Created by: Vishnupriya M.
-Built with: ❤️ Python + Groq API
+Built with:  Python + Groq API
 Goal: A fast, accurate, and lightweight chatbot that runs entirely from your terminal.
